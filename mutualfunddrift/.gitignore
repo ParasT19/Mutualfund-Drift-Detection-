@@ -1,0 +1,46 @@
+# Environment secrets
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# macOS
+.DS_Store
+
+# Saved ML models
+models_saved/*.joblib
+
+# Virtual environments
+venv/
+.venv/
+env/
+ENV/
+
+# Pytest cache
+.pytest_cache/
+
+# Package build artifacts
+*.egg-info/
+dist/
+build/
+
+# Streamlit config
+.streamlit/
+
+# Editor
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Database files — do not commit, each user creates their own
+*.db
+*.sqlite3
+
+# AI assistant config
+.agents/
+.gemini/

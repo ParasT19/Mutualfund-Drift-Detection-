@@ -1,0 +1,3 @@
+# This file ensures the models_saved/ directory is tracked by Git
+# even when it contains no trained model files yet.
+# After training: pytest tests/ -v then POST /api/drift/train

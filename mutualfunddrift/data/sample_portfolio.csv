@@ -1,0 +1,27 @@
+isin,company_name,sector,market_value_lakhs,pct_of_nav,asset_type
+INE296A01024,Bajaj Finance Ltd,Financial Services,4850.25,4.85,Equity
+INE237A01028,Kotak Mahindra Bank Ltd,Financial Services,4120.50,4.12,Equity
+INE009A01021,Infosys Ltd,IT,3950.75,3.95,Equity
+INE860A01027,HCL Technologies Ltd,IT,3680.20,3.68,Equity
+INE280A01028,Titan Company Ltd,Consumer Goods,3540.90,3.54,Equity
+INE585B01010,Maruti Suzuki India Ltd,Auto,3410.60,3.41,Equity
+INE044A01036,Sun Pharmaceutical Industries Ltd,Healthcare,3290.80,3.29,Equity
+INE066A01013,Eicher Motors Ltd,Auto,3150.40,3.15,Equity
+INE075A01022,Wipro Ltd,IT,2980.30,2.98,Equity
+INE669C01036,Tata Consumer Products Ltd,Consumer Goods,2820.15,2.82,Equity
+INE603J01030,PI Industries Ltd,Materials,2740.55,2.74,Equity
+INE226A01021,Voltas Ltd,Consumer Goods,2610.85,2.61,Equity
+INE685A01028,Torrent Pharmaceuticals Ltd,Healthcare,2480.70,2.48,Equity
+INE121A01024,Cholamandalam Investment Finance,Financial Services,2350.25,2.35,Equity
+INE591G01017,Coforge Ltd,IT,2240.90,2.24,Equity
+INE262H01021,Persistent Systems Ltd,IT,2150.45,2.15,Equity
+INE414G01012,Muthoot Finance Ltd,Financial Services,2020.60,2.02,Equity
+INE949L01017,AU Small Finance Bank Ltd,Financial Services,1950.35,1.95,Equity
+INE158R01020,KPIT Technologies Ltd,IT,1870.80,1.87,Equity
+INE660A01013,Sundaram Finance Ltd,Financial Services,1790.25,1.79,Equity
+INE769A01020,Aarti Industries Ltd,Materials,1720.55,1.72,Equity
+INE285A01027,Elgi Equipments Ltd,Industrials,1640.30,1.64,Equity
+INE059A01026,Cipla Ltd,Healthcare,1580.90,1.58,Equity
+INE038A01020,Hindalco Industries Ltd,Materials,3950.40,3.95,Equity
+INE101A01026,Mahindra & Mahindra Ltd,Auto,4820.75,4.82,Equity
+Cash and Cash Equivalents,Cash & Equivalents,Cash,5100.00,5.10,Cash
